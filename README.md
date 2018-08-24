@@ -1,2 +1,2 @@
-# nullFunctionModule
-A module that exports a function that returns an empty object
+This is a module that is used to overwrite a babel plugin
+all it does is module.exports = function(){ return {} }
